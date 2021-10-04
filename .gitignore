@@ -1,0 +1,4 @@
+.env
+dj_backend/__pycache__/
+CalendarBackend/__pycache__/
+CalendarBackend/migrations/
